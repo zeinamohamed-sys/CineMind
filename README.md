@@ -106,16 +106,14 @@ If these files are not found, CineMind still runs perfectly with graceful visual
 
 ## 📸 Screenshot Placeholders
 
-### Dashboard Home
-![Dashboard Screenshot](docs/screenshots/dashboard-home.png)
+### 📸 Project Preview
 
-### Sentiment Analysis
-![Sentiment Screenshot](docs/screenshots/sentiment-analysis.png)
+#### 🏠 Dashboard UI & Features
+![CineMind Dashboard](banner.png)
 
-### Recommendation Engine
-![Recommendation Screenshot](docs/screenshots/recommendations.png)
+#### 🧠 AI Sentiment & Vision
+![CineMind Vision](logo.png)
 
-> Replace the placeholder image paths above with your real project screenshots after capturing them.
 
 ---
 
